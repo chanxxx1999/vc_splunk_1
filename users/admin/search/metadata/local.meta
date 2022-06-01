@@ -12,4 +12,8 @@ modtime = 1653902486.368011000
 
 [ui-prefs/search]
 version = 8.2.5
-modtime = 1653977570.334747000
+modtime = 1654014945.087302000
+
+[ui-tour/dashboards-tour%3Aenterprise]
+version = 8.2.5
+modtime = 1654014956.528911000
